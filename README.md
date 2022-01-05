@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonardoCG
 - 👀 I’m interested in ...Software
-- 🌱 I’m currently learning ...developer
+- 🌱 I’m currently learning ...developer web
 - 💞️ I’m looking to collaborate on ...AWS
  
 <!---
